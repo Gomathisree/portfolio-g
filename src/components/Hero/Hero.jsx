@@ -1,3 +1,4 @@
+
 import React from 'react'
 import './Hero.css'
 import pic from '../../assets/pic.png'
@@ -18,3 +19,6 @@ const Hero = () => {
 }
 
 export default Hero
+
+
+

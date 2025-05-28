@@ -17,7 +17,15 @@ const About = () => {
         </div>
         <div className="about-right">
           <div className="about-para">
-            <p>I'm a passionate Front-End Developer with a strong focus on building user-friendly, responsive, and visually appealing web applications. I love turning ideas into real-life products that people enjoy using. Skilled in modern web technologies like HTML, CSS, JavaScript, React.js and API integration, I’m always learning and staying up-to-date with new trends in web development.</p>
+
+          <div className="centered">
+  <p className="justified">I'm a passionate Front-End Developer with a strong focus on building user-friendly, responsive, and visually appealing web applications.
+               I love turning ideas into real-life products that people enjoy using.
+                Skilled in modern web technologies like HTML, CSS, JavaScript, React.js and API integration,
+                 I’m always learning and staying up-to-date with new trends in web development.
+                 I’m looking for opportunities where I can contribute to real-world projects, 
+                 learn from experienced teams, and grow as a frontend engineer.</p>
+                 </div>
          
           </div>
           <div className="about-skills">
